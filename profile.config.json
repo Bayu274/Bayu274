@@ -1,67 +1,77 @@
 {
   "$schema": "./profile.schema.json",
   "profile": {
-    "name": "Your Name",
-    "username": "yourusername",
-    "headline": "AI Engineer & Product Builder",
-    "affiliation": "Your University or Company",
-    "location": "City, Country",
-    "status": "Learning / Building / Shipping",
+    "name": "Dhafin Rifki Bayu Santoso",
+    "username": "Bayu274",
+    "headline": "Software Engineer | Web & Interactive UI",
+    "affiliation": "Sebelas Maret University",
+    "location": "Surakarta, Indonesia",
+    "status": "Building scalable web systems",
     "about": [
-      "I build practical systems at the intersection of artificial intelligence, software engineering, and products people can trust.",
-      "My work combines technical exploration with a builder mindset: understand the problem, test the system, and share what actually works."
+      "Computer Science and IT Education student with a strong focus on full-stack web development.",
+      "I specialize in designing relational database architectures, developing robust backend logic, and building interactive user interfaces."
     ]
   },
   "research": {
-    "primary": "AI Agents",
-    "direction": "Reliable autonomous systems",
-    "themes": "Tool use / evaluation / human control",
-    "narrative": "I am interested in systems that can observe state, use tools, evaluate outcomes, and take bounded actions with clear evidence and human oversight."
+    "primary": "Web Architecture",
+    "direction": "High-performance systems",
+    "themes": "Database / UI Interaction / Backend Logic",
+    "narrative": "I am interested in building efficient web applications from the ground up, focusing on pragmatic software engineering, optimal data flow, and responsive user experiences."
   },
   "focus": [
     {
-      "name": "AI Agents",
-      "description": "Autonomous workflows, tool use, evaluation, and reliable agent behavior."
+      "name": "Backend Arch",
+      "description": "Designing Entity-Relationship Diagrams (ERDs) and developing secure backend systems using PHP and Laravel."
     },
     {
-      "name": "Applied AI",
-      "description": "Turning model capabilities into useful and testable software systems."
+      "name": "Interactive UI",
+      "description": "Implementing responsive frontend architectures utilizing JavaScript, HTML, and CSS."
     },
     {
-      "name": "Developer Tools",
-      "description": "Better workflows for building, testing, and operating modern software."
+      "name": "System Admin",
+      "description": "Building integrated platforms to efficiently manage data for large-scale operations."
     }
   ],
   "projects": [
     {
-      "name": "Project One",
-      "url": "https://github.com/yourusername/project-one",
+      "name": "BAAK Polnest",
+      "url": "https://github.com/Bayu274/BAAK-PolNest",
       "homepage": "",
-      "focus": "Primary project focus",
-      "summary": "A concise explanation of what the project does and why it matters.",
-      "heroLabel": "Primary build"
+      "focus": "Backend & Integration",
+      "summary": "An integrated administration platform built with PHP to manage activity data seamlessly.",
+      "heroLabel": "Core Architecture"
     },
     {
-      "name": "Project Two",
-      "url": "https://github.com/yourusername/project-two",
+      "name": "HMP Mikroptik",
+      "url": "https://github.com/Bayu274/HMP-Mikroptik",
       "homepage": "",
-      "focus": "Secondary project focus",
-      "summary": "A second project that supports the professional direction of this profile.",
-      "heroLabel": "Active system"
+      "focus": "Frontend & UI",
+      "summary": "Official interactive digital platform for the Student Association featuring modern UI interactions.",
+      "heroLabel": "Interactive UI"
+    },
+    {
+      "name": "RAB Calculator",
+      "url": "https://github.com/Bayu274",
+      "homepage": "",
+      "focus": "Full-Stack System",
+      "summary": "A web-based calculator utilizing real-time price indexing for automated construction cost calculations.",
+      "heroLabel": "Algorithmic Tool"
     }
   ],
   "techStack": [
-    "TypeScript",
-    "Next.js",
-    "Python",
-    "PostgreSQL",
-    "Playwright"
+    "PHP",
+    "JavaScript",
+    "Laravel",
+    "MySQL",
+    "Bootstrap",
+    "HTML & CSS",
+    "SQLite"
   ],
   "links": [
     {
       "label": "GitHub",
-      "value": "yourusername",
-      "url": "https://github.com/yourusername",
+      "value": "Bayu274",
+      "url": "https://github.com/Bayu274",
       "logo": "github",
       "color": "0B1220"
     }
@@ -73,5 +83,5 @@
   "appearance": {
     "palette": "signal"
   },
-  "footer": "Building thoughtful systems and sharing what works."
+  "footer": "Building high-performance systems and interactive user experiences."
 }
